@@ -1,0 +1,10 @@
+<On--AA11>
+<Move--50>
+<MoveX--50>
+<Take-Off>
+<Fly--50>
+<Move---50>
+<MoveX---50>
+<Fly---50>
+<Land>
+<Off>
