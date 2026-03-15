@@ -1,0 +1,19 @@
+START (oi98) :
+<Set-Ship--0--10--0--0--1>;
+<Set-Space--0--0--50--50--50>;
+<Turn--R--90>;
+<Move--10>;
+<Take-Off>;
+<Fly--50>;
+<Turn--L--90>;
+<Move--10>;
+<Land>;
+<Off>
+: END
+
+START (AS543) :
+<Set-Ship--0--10--0--0--1>;
+<Set-Space--0--0--50--50--50>;
+<Turn--R--90>;
+<Move--10>;
+: END
